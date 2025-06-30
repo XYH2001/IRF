@@ -1,2 +1,2 @@
 # IRF
-Instrument-refined forests for causal inference with invalid instruments
+Instrument-refined forests for heterogeneous causal inference with invalid instruments
